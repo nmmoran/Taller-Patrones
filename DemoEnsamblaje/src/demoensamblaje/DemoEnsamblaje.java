@@ -1,16 +1,9 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package demoensamblaje;
 
 import sinpatron.*;
 
-/**
- *
- * @author david_000
- */
+
 public class DemoEnsamblaje {
 
     /**
@@ -62,6 +55,13 @@ public class DemoEnsamblaje {
         
         //Mostrar prestaciones del vehiculo
         System.out.println(v2.getPrestaciones());
+        //--------------------------------------------------
+        
+        
+        
+        
+        
+        
         
         //--------------------------------------------------
 
