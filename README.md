@@ -10,3 +10,4 @@ DECORATOR
 El patron decorator nos evita la heredacion y por lo tanto la creacion de clases innecesarias ya que si el usuario requiere de un vehiculo con alguna variacion en sus atributos lo podra hacer sin la necesidad de crear una clase nueva completamente. Por ejemplo podria crear un modelo de vehiculo especifico (Audi) y que tenga un sistema de sensor para retro pero tambien podria crear otro vehiculo modelo Audi que no tenga el sensor pero si tenga una radio con pantalla tactil.
 
 
+![Clase UML - Clase UML](https://user-images.githubusercontent.com/92494094/144476487-d8c7bd27-1360-420c-943f-3c3d6339c647.jpeg)
